@@ -1,5 +1,5 @@
-DBMS-Project-341066-341090-341077)
-DBMS Project as part of Term - 2 for ETB Subject
+## DBMS-Project-341066-341090-341077)
+## DBMS Project as part of Term - 2 for ETB Subject
 # Zepto-_-DB
 # Quick Commerce Database System (DBMS Project)
 ---
