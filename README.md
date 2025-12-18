@@ -1,10 +1,9 @@
 # DBMS Project – ERR Based Database Design
 
-**Course:** DBMS (ETB – Term 2)
-**Project Title:** 
-QComm Lite – Quick Commerce Database System
+Course: DBMS (ETB – Term 2)
+Project Title:QComm Lite – Quick Commerce Database System
 
-**Group ID:** 15
+Group NO: 15
 **Members:**
 
 * 341066 – Ramanjan Dutta
