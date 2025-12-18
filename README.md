@@ -1,7 +1,9 @@
 # DBMS Project – ERR Based Database Design
 
 **Course:** DBMS (ETB – Term 2)
-**Project Title:** QComm Lite – Quick Commerce Database System
+**Project Title:** 
+QComm Lite – Quick Commerce Database System
+
 **Group ID:** 15
 **Members:**
 
